@@ -1,0 +1,6 @@
+nltk
+numpy
+flask
+torch
+torchvision
+pillow
